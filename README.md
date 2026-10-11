@@ -43,13 +43,6 @@
 > *Low-level exploration of stack frames, memory allocation, and binary exploit mitigations in C.*
 - **Key Focus:** Demonstrating stack-based buffer overflows, examining assembly-level pointers, and configuring compiler protections (ASLR, DEP/NX).
 - **Tech Stack:** C, GCC, GDB, Linux, Python, Javascript.
-
----
-
-### 📈 GitHub Stats
-![Fawwaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawwaz-angullia&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawwaz-angullia&layout=compact&theme=radial)
-
 ---
 
 ### 📫 Connect with Me
