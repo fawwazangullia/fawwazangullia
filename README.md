@@ -29,20 +29,20 @@
 
 ### 📂 Featured Cyber Projects & Labs
 
-#### 🔍 [SOC Home Lab & Incident Response Walkthrough](https://github.com/fawwaz-angullia/soc-lab)
+#### 🔍 [SOC Home Lab & Incident Response Walkthrough]
 > *Virtualized Security Operations Center analyzing malicious traffic and brute-force attempts.*
 - **Key Focus:** Deploying Snort IDS, configuring Elastic SIEM dashboards, isolating compromised hosts, and writing incident response logs.
 - **Tech Stack:** Linux, Snort IDS, Elastic SIEM, PfSense.
 
-#### 🐍 [Python Security Automation Scripts](https://github.com/fawwaz-angullia/python-cyber-tools)
+#### 🐍 [Python Security Automation Scripts]
 > *A collection of Python utility scripts for log parsing, pattern extraction, and threat hunting workflows.*
 - **Key Focus:** Automating IOC extraction via Regex, parsing Apache access logs, and executing automated IP reputation checks.
 - **Tech Stack:** Python, Regex, Pandas, REST APIs.
 
-#### ⚙️ [C Memory Corruption & Buffer Overflow Lab](https://github.com/fawwaz-angullia/c-memory-security)
+#### ⚙️ [C Memory Corruption & Buffer Overflow Lab]
 > *Low-level exploration of stack frames, memory allocation, and binary exploit mitigations in C.*
 - **Key Focus:** Demonstrating stack-based buffer overflows, examining assembly-level pointers, and configuring compiler protections (ASLR, DEP/NX).
-- **Tech Stack:** C, GCC, GDB, Linux, Python, Javascript.
+- **Tech Stack:** C, GCC, GDB, Linux.
 ---
 
 ### 📫 Connect with Me
